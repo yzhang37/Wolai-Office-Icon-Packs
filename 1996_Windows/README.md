@@ -20,7 +20,7 @@
 | Application Icon | <img src="Excel/PNG/Excel 9x_00.png" alt="Excel 9x_00" width="64px" /> | <img src="Excel/PNG/Excel 9x_01.png" alt="Excel 9x_01" width="24px" /> |
 | Document (*.xls) | <img src="Excel/PNG/Excel 9x XLS.png" alt="Excel 9x XLS" width="64px" /> | <img src="Excel/PNG/Excel 9x XLS.png" alt="Excel 9x XLS" width="24px" /> |
 | Template (*.xlt) | <img src="Excel/PNG/Excel 9x Template.png" alt="Excel 9x Template" width="64px" /> | <img src="Excel/PNG/Excel 9x Template.png" alt="Excel 9x Template" width="24px" /> |
-| CSV File (*.csv) | <img src="Excel/PNG/Excel 9x CSV.PNG" alt="Excel 9x CSV" width="64px" /> | <img src="Excel/PNG/Excel 9x CSV.PNG" alt="Excel 9x CSV" width="24px" /> |
+| CSV File (*.csv) | <img src="Excel/PNG/Excel 9x CSV.png" alt="Excel 9x CSV" width="64px" /> | <img src="Excel/PNG/Excel 9x CSV.png" alt="Excel 9x CSV" width="24px" /> |
 | Exporting        | <img src="Excel/PNG/Excel 9x Export.png" alt="Excel 9x Export" width="64px" /> | <img src="Excel/PNG/Excel 9x Export.png" alt="Excel 9x Export" width="24px" /> |
 | Add-ins (*.xla)  | <img src="Excel/PNG/Excel 9x Addin.png" alt="Excel 9x Addin" width="64px" /> | <img src="Excel/PNG/Excel 9x Addin.png" alt="Excel 9x Addin" width="24px" /> |
 
